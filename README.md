@@ -42,7 +42,8 @@ It's recommended to run H4CKINTO behind a reverse proxy such as [NGINX](https://
 
 ## Install on Heroku (Note : Don't use this method else your account could be suspended)
   
-  <a href="https://heroku.com/deploy?template=https://github.com/Piyush-Banik/H4CKINTO">
+  <a href="https://heroku.com/deploy?template=https://github.com/MOD-ID/H4CKINTO">
+  ##https://github.com/Piyush-Banik/H4CKINTO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
