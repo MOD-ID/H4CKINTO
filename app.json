@@ -1,12 +1,12 @@
 {
-  "name": "H4CKINTO",
-    "version": "1.0.0",
-    "description": "H4CKINTO - Remote Android Spying Tool",
+  "name": "Androidme",
+    "version": "1.0.1",
+    "description": "just for learn",
     "main": "index.js",
     "scripts": {
         "start": "node server/index.js",
         "test": "node server/index.js"},
-  "author": "Piyush Banik",
+  "author": "-",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
